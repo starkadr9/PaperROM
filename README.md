@@ -38,7 +38,7 @@ Digital media decays. Hard drives fail. The cloud dies when the grid does.
 
 To maximize durability:
 
-- Use **printable Tyvek sheets** (such as Tyvek 8740D or 1056D)
+- Use **printable Tyvek sheets** (such as Tyvek 8740D or 1056D, [LINK TO EXAMPLE](https://www.amazon.com/WristCo-8-1-Tyvek-Synthetic-Paper/dp/B09K4LGHFY))
 - Compatible with most **laser printers** and some **pigment-based inkjets**
 - Standard size: 8.5x11", or tile multiple for scroll construction
 - Let ink dry thoroughly before rolling or binding
