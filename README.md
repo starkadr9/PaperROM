@@ -116,6 +116,9 @@ Readability is based on standard scanner.
 Even at the biggest font we beat QR codes (albeit with more overhead work,) and blow punchcards out of the water.
 In time we want to experiment to prove this system can be utilized with 80's level computers which can be scrounged together with some rudimentary salvage.
 
+Printing double sided 8pt you get $0.06 per KB roughly. Obviously not anything groundbreaking but the point is resiliency and LONG term archival purposes.
+Hilariously you could technically laser etch metal or carve into stone and get 1,000+ year archival storage in this format, but betting on 80's technology in that range is a stretch.
+
 ---
 
 ## Resurrectability
