@@ -3,7 +3,7 @@
 
 ![PaperROM encoder source encoded](ex.jpg)
 
-**PaperROM** is a minimalist, mythotechnic system for preserving digital code on paper in the most durable, long-lasting, and easy to obtain medium available: Tyvek paper.
+**PaperROM** is a minimalist, mythotechnic system for preserving digital code on paper in one of the most durable, long-lasting, and easy to obtain "paper" medium available: Tyvek paper.
 
 This toolchain allows you to compress any file, encode it in Base85 with checksum-verified lines, and print it as plain text to rugged paper like Tyvek. The result is a bootable scroll — readable by machine or human, restorable even after collapse, and durable enough to last centuries.
 
