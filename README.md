@@ -21,6 +21,18 @@ We are inspired by punchcards which while well before our time is a charming ble
 
 ---
 
+## Build
+
+You simply need zlib and gcc.
+
+```
+gcc -o scroll_encoder scroll_encoder.c -lz && gcc -o scroll_decoder scroll_decoder.c -lz
+```
+
+You can add to path or run in dir from there.
+
+---
+
 ## Philosophy
 
 Digital media decays. Hard drives fail. The cloud dies when the grid does.
